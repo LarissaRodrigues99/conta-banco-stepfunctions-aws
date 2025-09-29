@@ -28,7 +28,7 @@ Este projeto define um **workflow no AWS Step Functions** que integra múltiplos
 
 ## 🖼️ Diagrama
 
-![Step Functions Workflow](./stepfunctions_graph.png)
+![Step-Functions-Workflow](https://raw.githubusercontent.com/LarissaRodrigues99/conta-banco-stepfunctions-aws/refs/heads/main/imagem/stepfunctions-graph.png)
 
 ---
 
